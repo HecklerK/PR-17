@@ -1,0 +1,17 @@
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\bin\Debug\ПР 17.exe.config
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\bin\Debug\ПР 17.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\bin\Debug\ПР 17.pdb
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\ПР 17.csprojResolveAssemblyReference.cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\MainWindow.baml
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\MainWindow.g.cs
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\App.g.cs
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\ПР 17_MarkupCompile.cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\ПР 17.g.resources
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\ПР_17.Properties.Resources.resources
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\ПР 17.csproj.GenerateResource.Cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\ПР 17.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\ПР 17.pdb
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\SferaF.baml
+c:\users\kbstudentint\documents\visual studio 2013\Projects\ПР 17\ПР 17\obj\Debug\SferaF.g.cs
+C:\Users\kbstudentint\Documents\Visual Studio 2013\Projects\ПР 17\ПР 17\obj\Debug\KonusF.baml
+C:\Users\kbstudentint\Documents\Visual Studio 2013\Projects\ПР 17\ПР 17\obj\Debug\KonusF.g.cs

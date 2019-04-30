@@ -1,0 +1,14 @@
+﻿<Window x:Class="ПР_17.SferaF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SferaF" Height="299" Width="402" Closed="Window_Closed">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="269" VerticalAlignment="Top" Width="237" Source="Снимок.PNG"/>
+        <TextBlock HorizontalAlignment="Left" Margin="237,10,0,0" TextWrapping="Wrap" Text="R =" VerticalAlignment="Top"/>
+        <TextBox x:Name="TBR" HorizontalAlignment="Left" Height="17" Margin="261,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="87" Text="0"/>
+        <Button Content="Вычислить" HorizontalAlignment="Left" Height="20" Margin="242,31,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click"/>
+        <TextBlock x:Name="S" HorizontalAlignment="Left" Margin="242,56,0,0" TextWrapping="Wrap" Text="S =" VerticalAlignment="Top" Width="142"/>
+        <TextBlock x:Name="V" HorizontalAlignment="Left" Margin="242,77,0,0" TextWrapping="Wrap" Text="V =" VerticalAlignment="Top" Width="142"/>
+
+    </Grid>
+</Window>
